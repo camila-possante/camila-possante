@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @camila-possante
 - 👀 I’m interested in quality assurance, robotis and IA
-- 🌱 I’m currently learning TypeScript and russian
 - 💞️ I work in IT to make people's lives easier and better.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/camilapossan/)
 - 😄 Pronouns: she/her
